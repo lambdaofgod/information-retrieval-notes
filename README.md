@@ -8,6 +8,11 @@ These notes are aimed at bridging the gap between books like **Introduction to I
 
 They should be useful if you know something about IR, but want to learn Lucene, or you used Elasticsearch but wanted to know more about how it works.
 
+## Contents
+
+* [Motivating example](https://github.com/lambdaofgod/information-retrieval-notes/blob/master/notebooks/Motivating%20example.ipynb)
+
+
 ## Requirements
 
 The project is based on [jupyter-scala](https://github.com/jupyter-scala/jupyter-scala) notebooks.
@@ -16,3 +21,5 @@ The project is based on [jupyter-scala](https://github.com/jupyter-scala/jupyter
 
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 * [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+
+I also consulted [Lucene 4 Cookbook](https://github.com/edng/lucene4_cookbook_examples/tree/master/src/main/java/org/edng/lucene4/example) for these notes.

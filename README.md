@@ -11,11 +11,11 @@ They should be useful if you know something about IR, but want to learn Lucene, 
 ## Contents
 
 * [Motivating example](https://github.com/lambdaofgod/information-retrieval-notes/blob/master/notebooks/python/Motivating%20example.ipynb)
-
+* [Index - Fields and storing](https://github.com/lambdaofgod/information-retrieval-notes/blob/master/notebooks/python/Index%20-%20Fields%20and%20storing.ipynb)
 
 ## Requirements
 
-The project is based on [jupyter-scala](https://github.com/jupyter-scala/jupyter-scala) notebooks.
+Scala notebooks are based on [jupyter-scala](https://github.com/jupyter-scala/jupyter-scala) notebooks.
 
 ## Useful resources
 

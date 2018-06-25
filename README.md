@@ -10,7 +10,7 @@ They should be useful if you know something about IR, but want to learn Lucene, 
 
 ## Contents
 
-* [Motivating example](https://github.com/lambdaofgod/information-retrieval-notes/blob/master/notebooks/Motivating%20example.ipynb)
+* [Motivating example](https://github.com/lambdaofgod/information-retrieval-notes/blob/master/notebooks/python/Motivating%20example.ipynb)
 
 
 ## Requirements
